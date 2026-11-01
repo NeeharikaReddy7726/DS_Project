@@ -157,7 +157,7 @@ The accompanying research paper presents the methodology, mathematical formulati
 
 **Faculty Guide:** Dr. Priyanka Bhatt
 
-Department of Data Science and Machine Learning
+Department of Artificial Intelligence
 
 ## Acknowledgements
 
