@@ -103,12 +103,6 @@ FIB-Fusion/
 │
 ├── FIB_Fusion_IBML_4Datasets.ipynb
 │
-├── Research_Paper/
-│   └── federated-multimodal-sentiment-paper.pdf
-│
-├── Presentation/
-│   └── FIB_Fusion_Presentation.pdf
-│
 └── README.md
 ```
 
