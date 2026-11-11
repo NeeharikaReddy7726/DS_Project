@@ -155,7 +155,7 @@ The accompanying research paper presents the methodology, mathematical formulati
 - Neeharika Tera
 - Nihali Khaire
 
-**Faculty Guide:** Dr. Priyanka Bhatt
+**Faculty Guide:**  Priyanka Bhatt
 
 Department of Artificial Intelligence
 
